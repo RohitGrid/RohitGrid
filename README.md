@@ -131,10 +131,14 @@ I am currently looking for <b>internship opportunities in Machine Learning / Dat
 <h2>🤝 Connect with Me</h2>
 
 <p>
-📧 Email: rohitmknair@gmail.com <br>
-🔗 LinkedIn: https://www.linkedin.com/in/rohit-manoj/
+  <img src="https://img.icons8.com/color/24/gmail.png" width="20"/> 
+  Email: rohitmknair@gmail.com
 </p>
 
+<p>
+  <img src="https://img.icons8.com/color/24/linkedin.png" width="20"/> 
+  LinkedIn: https://www.linkedin.com/in/rohit-manoj/
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <p align="center">
