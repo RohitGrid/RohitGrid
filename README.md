@@ -5,29 +5,21 @@
 📊 Machine Learning | Data Science | Data-driven Systems
 </p>
 
----
-
 <h2>🚀 About Me</h2>
-
 <p>
-I work at the intersection of <b>mathematics, data, and computation</b>, building systems that turn structured data into meaningful insights.
-</p>
+I am a second-year undergraduate in Mathematics and Computing at NIT Warangal, with a strong foundation in Machine Learning and Data Science and a focus on working on impactful, data-driven problems. I am particularly interested in research-oriented approaches that require mathematical analysis and reasoning to structure and understand the data.
 
-<p>
-I am particularly interested in:
+My work deals with understanding how mathematics help in structuring and  analyzing data, from which we can obtain valubale insights. I have familiarity with advanced mathematical concepts from functional analysis, particularly <b>operator theory and Banach spaces</b>, which shape my approach to problem solving. I am also comfortable working on projects in interdisciplinary areas like <b>computational genomics</b> and <b>Drug-Target Interaction</b>, applying data analysis and modeling techniques to biological data.
 </p>
 
 <ul>
   <li>Machine Learning</li>
-  <li>Data Science</li>
   <li>Data Visualization</li>
   <li>Mathematical Modeling</li>
-  <li>Optimization and Algorithms</li>
+  <li>Functional Analysis (Operator Theory, Banach Spaces)</li>
+  <li>Computational Genomics</li>
+  <li>Drug Action</li>
 </ul>
-
-<p>
-I enjoy approaching problems by modeling them mathematically and then implementing efficient computational solutions.
-</p>
 
 ---
 
@@ -100,14 +92,8 @@ A platform that generates <b>personalized career roadmaps</b> using a data-drive
 <h2>📈 What I’m Looking For</h2>
 
 <p>
-I am currently looking for <b>internship opportunities in Machine Learning / Data Science</b> where I can:
+I am currently looking for <b>internship opportunities in Machine Learning / Data Science</b>.
 </p>
-
-<ul>
-  <li>Work on real-world datasets</li>
-  <li>Contribute to impactful projects</li>
-  <li>Learn in strong technical environments</li>
-</ul>
 
 ---
 
