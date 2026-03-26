@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I am  Rohit Manoj! Good to see you here! 👋</h1>
-
+<p align = "center">
+  <img src="header_.png" alt="header"/>
+</p>
 <p align="center">
 🎓 Mathematics and Computing @ NIT Warangal <br>
 📊 Machine Learning | Data Science | Data-driven Systems
