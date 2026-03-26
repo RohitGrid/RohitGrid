@@ -1,9 +1,25 @@
-<h1 align="center">Hi, I'm Rohit Manoj 👋</h1>
+<h1 align="center">Hey, I am  Rohit Manoj! Good to see you here! 👋</h1>
 
 <p align="center">
 🎓 Mathematics and Computing @ NIT Warangal <br>
 📊 Machine Learning | Data Science | Data-driven Systems
 </p>
+<p align ="center">
+<a href="https://github.com/RohitGrid">
+  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Follow" />
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-manoj/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Manoj-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="mailto:rohitmknair@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rohitmknair@gmail.com-red?style=flat&logo=gmail" alt="Gmail" />
+</a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <h2>🚀 About Me</h2>
 <p>
@@ -21,7 +37,8 @@ My work deals with understanding how mathematics help in structuring and  analyz
   <li>Drug Action</li>
 </ul>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
 
 <h2>🧠 Current Focus</h2>
 
@@ -32,7 +49,8 @@ My work deals with understanding how mathematics help in structuring and  analyz
   <li>Designing systems that evolve from logic → intelligent models</li>
 </ul>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
 
 <h2>🔬 Research Interests</h2>
 
@@ -44,7 +62,7 @@ My work deals with understanding how mathematics help in structuring and  analyz
   <li>Bridging mathematics with practical ML systems</li>
 </ul>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <h2>💻 Featured Project</h2>
 
@@ -60,11 +78,22 @@ A platform that generates <b>personalized career roadmaps</b> using a data-drive
   <li>Designed with personalization and scalability in mind</li>
 </ul>
 
-<p>
-👉 <a href="https://skill-map-nine.vercel.app/">Live Demo</a>
+<p align="center">
+  <a href="https://skill-map-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+<p align="center"><b>Preview</b></p>
+
+<p align="center">
+  <img src="SkillMap Webpage.png" width="45%"/>
+  <img src="Features.png" width="45%"/>
+  <br/><br/>
+  <img src="Job data.png" width="45%"/>
+  <img src="Roadmap.png" width="45%"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <h2>🛠️ Tools & Technologies</h2>
 
@@ -87,7 +116,7 @@ A platform that generates <b>personalized career roadmaps</b> using a data-drive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplolib" width="50" height="50"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <h2>📈 What I’m Looking For</h2>
 
@@ -95,16 +124,16 @@ A platform that generates <b>personalized career roadmaps</b> using a data-drive
 I am currently looking for <b>internship opportunities in Machine Learning / Data Science</b>.
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <h2>🤝 Connect with Me</h2>
 
 <p>
-📧 Email: your-email@example.com <br>
-🔗 LinkedIn: your-linkedin-link
+📧 Email: rohitmknair@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-manoj/
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <p align="center">
 ⭐ Always open to collaboration and interesting problems!
