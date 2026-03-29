@@ -68,6 +68,24 @@ My work deals with understanding how mathematics help in structuring and  analyz
 
 <h2>💻 Featured Project</h2>
 
+<h3>🔗 Breast Cancer Detection</h3>
+
+<p>
+A machine learning project that predicts whether a tumor is <b>benign</b> or <b>malignant</b> using medical data and classification algorithms.
+</p>
+
+<ul>
+  <li>Built using Logistic Regression on a real-world dataset</li>
+  <li>Includes data analysis, visualization, and model evaluation</li>
+  <li>Provides predictions with probability scores</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/your-username/breast-cancer-ml">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge" />
+  </a>
+</p>
+
 <h3>🔗 SkillMap</h3>
 
 <p>
