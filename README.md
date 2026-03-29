@@ -81,7 +81,7 @@ A machine learning project that predicts whether a tumor is <b>benign</b> or <b>
 </ul>
 
 <p align="center">
-  <a href="https://github.com/your-username/breast-cancer-ml">
+  <a href="https://github.com/RohitGrid/Breast-Cancer-Detection">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge" />
   </a>
 </p>
