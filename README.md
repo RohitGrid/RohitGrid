@@ -68,20 +68,47 @@ My work deals with understanding how mathematics help in structuring and  analyz
 
 <h2>💻 Featured Project</h2>
 
-<h3>🔗 Breast Cancer Detection</h3>
+<h3>🔗 UrbanWatch AI</h3>
 
 <p>
-A machine learning project that predicts whether a tumor is <b>benign</b> or <b>malignant</b> using medical data and classification algorithms.
+AI-driven parking intelligence that turns raw traffic-violation data into targeted enforcement decisions — an interactive dashboard built on three data-science components trained on ~298K real Bengaluru Traffic Police records.
 </p>
 
 <ul>
-  <li>Built using Logistic Regression on a real-world dataset</li>
-  <li>Includes data analysis, visualization, and model evaluation</li>
-  <li>Provides predictions with probability scores</li>
+  <li>Interactive hotspot heatmap built with Folium geospatial clustering</li>
+  <li>Junction-level Congestion Severity Index (0–100) ranking the top 20 enforcement targets</li>
+  <li>RandomForestRegressor-based hotspot predictor for day/hour risk forecasting</li>
 </ul>
 
 <p align="center">
-  <a href="https://github.com/RohitGrid/Breast-Cancer-Detection">
+  <a href="https://rohitgrid.github.io/UrbanWatch-AI/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+<p align="center"><b>Preview</b></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohitGrid/UrbanWatch-AI/main/assets/screenshot-hotspot-predictor.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/RohitGrid/UrbanWatch-AI/main/assets/screenshot-csi-breakdown.png" width="45%"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/RohitGrid/UrbanWatch-AI/main/assets/screenshot-violation-analyser.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/RohitGrid/UrbanWatch-AI/main/assets/heatmap.png" width="45%"/>
+</p>
+
+<h3>🔗 LaserTag — Distributed IR Combat Coordination Network</h3>
+
+<p>
+A 9-node ESP32 mesh (1 master, 6 player units, 2 auth terminals) delivering real-time IR hit detection, authenticated session gating, and modular stat-boost peripherals over a custom ESP-NOW protocol.
+</p>
+
+<ul>
+  <li>Bidirectional IR transceivers per node for omnidirectional hit detection, validated master-side</li>
+  <li>Keypad-authenticated vending subsystem gating session start, with time-gated penalty broadcasts on failed auth</li>
+  <li>ADC-based resistance decoding to identify swappable stat-modifier modules across 12 bands, arbitrated master-side</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/RohitGrid/LaserTag">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge" />
   </a>
 </p>
